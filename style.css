@@ -1,0 +1,27 @@
+
+nav{
+background-color: #50ac54;
+  margin: 10px
+  padding: 10px;
+ display: flex;
+  justify-content: space-between;
+  align-items: center;}
+nav a{
+color: black;}
+header section{
+  display: flex;
+  gap: 10px;
+  padding: 5px;}
+h2{
+  color: #50ac54;
+  font-size: 20px;
+    padding: 10px;}
+#peeps{color:white}
+body{background-color: black;}
+p{color: white;}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;}
+  img{width:250px;
+  height: 250px}
